@@ -166,15 +166,15 @@ The project adheres to the following **OO principles**:
 
 ### Main Menu
 
-![Main Menu](app/src/main/resources/screenshots/main_menu.png)
+![Main Interface](app/src/main/resources/screenshots/main_interface.png)
 ### Vehicle Management
-![Vehicle Management](app/src/main/resources/screenshots/vehicle_management.png)
+![Vehicle Management](app/src/main/resources/screenshots/rented_vehicles.png)
 ### Customer Management
 ![Customer Management](app/src/main/resources/screenshots/customer_management.png)
 ### Rental Management
-![Rental Management](app/src/main/resources/screenshots/rental_management.png)
+![Rental Management](app/src/main/resources/screenshots/manage_rentals.png)
 
-Visi ![UI](app/src/main/resources/screenshots) for more screenshots of the application.
+Visit ![UI](app/src/main/resources/screenshots) for more screenshots of the application.
 
 ---
 
