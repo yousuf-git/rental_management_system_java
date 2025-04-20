@@ -1,0 +1,16 @@
+Car,1,honda,10.0,false,4
+Car,3,maruti,8.0,false,4
+Car,4,ford,15.0,false,4
+Car,5,mercedes,20.0,false,4
+Car,6,audi,25.0,false,4
+Truck,7,volvo,30.0,false,10.0
+Truck,8,scania,35.0,false,15.0
+Truck,9,man,40.0,true,12.0
+Truck,10,iveco,28.0,false,8.0
+Bike,11,yamaha,5.0,false,true
+Bike,12,honda,4.0,true,false
+Bike,13,suzuki,6.0,false,true
+Bike,14,ducati,10.0,false,true
+Bike,15,kawasaki,8.0,false,true
+Car,2,Safari,12.0,true,2
+Car,2340,toyota,20.0,false,4

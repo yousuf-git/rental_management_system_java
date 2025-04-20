@@ -1,0 +1,12 @@
+1,john,212789219,Male
+2,jane,2123212,Female
+3,mike,212456789,Male
+4,sarah,212987654,Female
+5,alex,212123456,Male
+6,emma,212654321,Female
+7,liam,212345678,Male
+8,olivia,212876543,Female
+9,noah,212234567,Male
+10,ava,212765432,Female
+11,william,212345987,Male
+12,amelia,212876234,Female
